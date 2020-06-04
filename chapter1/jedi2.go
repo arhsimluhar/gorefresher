@@ -1,5 +1,10 @@
 package main
 
+//Points to ponder
+//-  var keyword and how to use it.
+//-  printing variables in a single print statement.
+//
+
 import "fmt"
 
 var x int

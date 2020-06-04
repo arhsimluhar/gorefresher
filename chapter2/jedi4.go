@@ -1,5 +1,10 @@
 package main
 
+// Points to ponder
+//   - Typed variables
+//   - Bit shifting
+//   - Binary, Hexa-decimal and decimal representation of the number.
+
 import "fmt"
 
 func main() {

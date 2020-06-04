@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+// points to ponder:
+//	- shorthand expressions
+//	- printing variables with newline characters
 func main() {
 
 	x := 42

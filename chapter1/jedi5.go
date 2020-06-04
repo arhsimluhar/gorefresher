@@ -1,5 +1,10 @@
 package main
 
+//Points to ponder
+//	- Underlying types
+//	- Type conversion (instead of type casting).
+//	- runtime package, how to get information about underlying OS and architecture.
+
 import (
 	"fmt"
 	"runtime"

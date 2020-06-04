@@ -1,5 +1,8 @@
 package main
 
+//Points to ponder:
+//	- Printing decimal, binary and hex representation of a number
+
 import "fmt"
 
 func main() {

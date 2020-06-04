@@ -1,5 +1,9 @@
 package main
 
+//Point to ponder
+//	-  Relational operators
+//	-  Booleans (primitive types)
+
 import "fmt"
 
 func main() {

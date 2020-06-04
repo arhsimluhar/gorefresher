@@ -1,5 +1,8 @@
 package main
 
+//Points to ponder
+//   - const variables ( typed and untyped )
+
 import "fmt"
 
 const (

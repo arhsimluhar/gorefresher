@@ -1,5 +1,8 @@
 package main
 
+//Points to ponder
+//-  iota
+
 import "fmt"
 
 const (
