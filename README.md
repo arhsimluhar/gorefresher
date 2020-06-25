@@ -8,5 +8,5 @@ Learning and praticing Golang
 - [Go by Example](https://gobyexample.com/).
 
 **Suggested IDE**
-- [Goland](https://www.jetbrains.com/go/) 
+- [GoLand](https://www.jetbrains.com/go/) 
 - [VScode (with go plugin)](https://code.visualstudio.com/)
