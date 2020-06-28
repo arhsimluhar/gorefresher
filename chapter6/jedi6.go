@@ -2,12 +2,20 @@ package main
 
 //Points to ponder
 //  - Create and use anonymous functions
+//  - Assign a function to a variable and call it
 
-import "fmt"
+import (
+	"fmt"
+	"math"
+)
 
 func main() {
-	square := func(x int) int {
-		return x * x
+	func(x int) {
+		fmt.Printf("Square of %d is %d.\n", x, x*x)
+
+	}(4)
+	cube := func(x float64) float64 {
+		return math.Pow(x, 3)
 	}
-	fmt.Println("Square of 4 is", square(4))
+	fmt.Println("Cube of 4 is :", cube(4))
 }
