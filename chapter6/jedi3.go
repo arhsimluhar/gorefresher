@@ -1,7 +1,7 @@
 package main
 
 //Points to ponder
-//  - Use defer keyword to show that deffered function runs after  the func containing it exits
+//  - Use defer keyword to show that deffered function runs after  the func containing it exits.
 
 import "fmt"
 
